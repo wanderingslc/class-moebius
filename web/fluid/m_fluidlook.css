@@ -1,0 +1,63 @@
+@charset "utf-8";
+.gridContainer {
+	background-color: #333;	
+	border: medium solid #d9f666;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	-webkit-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	-moz-box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+	box-shadow: 0 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+body,td,th {
+	color: #f30;
+}
+body {
+	background-image: url(../graphics/moebius_bg.jpg);
+	background-repeat: repeat;
+}
+a:link {
+	color: #872970;
+}
+a:visited {
+	color: #872970;
+}
+a:hover {
+	color: #872970;
+}
+a:active {
+	color: #872970;
+}
+h2 {
+	color: #872970;
+}
+
+h3 {
+	color: #919f3d;
+}
+.align-center {
+	text-align: center;
+}
+.right_with_space {
+	margin: .5em;
+	float: right;
+}
+
+#nav {
+	background-color: #999;
+}
+
+#content {
+	
+}
+#logo {
+	background-color: #919f3d;
+	text-align: center;
+}
+.noborders {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}

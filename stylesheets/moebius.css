@@ -1,0 +1,30 @@
+@charset "UTF-8";
+body,td,th {
+	font-size: 12px;
+	/*color: #66ff33;*/
+	color:white;
+}
+body {
+	background-image: url(../web/graphics/bg.jpg);
+	background-repeat: repeat;
+	color: #f30;
+	font-size: 16px;
+}
+a:link {
+	color: cc00cc;
+}
+a:visited {
+	color: cc00cc;
+}
+a:hover {
+	color: cc00cc;
+}
+a:active {
+	color: #cc00cc;
+}
+#nav {
+	font-size: 16px;
+	background-color: #999;
+	float: right;
+	border: thin double #6f3;
+}

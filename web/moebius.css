@@ -1,0 +1,58 @@
+@charset "UTF-8";
+body,td,th {
+	font-size: 12px;
+	/*color: #66ff33;*/
+	color:white;
+}
+body {
+	background-image: url(../web/graphics/bg.jpg);
+	background-repeat: repeat;
+	color: #f30;
+	font-size: 16px;
+}
+#container {
+	background-color: #333;
+	width: 80%;
+	margin-top: 10px;
+	margin-right: auto;
+	margin-left: auto;
+	border: medium solid #d9f666;
+}
+#content {
+	margin: 5px;
+}
+#logo {
+	background-color: #919f3d;
+	text-align: center;
+}
+a:link {
+	color: #872970;
+}
+a:visited {
+	color: #872970;
+}
+a:hover {
+	color: #872970;
+}
+a:active {
+	color: #872970;
+}
+#nav {
+	font-size: 16px;
+	background-color: #999;
+	float: right;
+	border: thin double #919f3d;
+}
+.noborder {
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+}
+h3 {
+	color: #919f3d;
+}
+#team {
+	margin: 5px;
+	float: right;
+}
